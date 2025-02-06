@@ -8,6 +8,6 @@ public class Main {
 
 
             Assembler assembler = new Assembler();
-            assembler.draw();
+            assembler.assemble();
     }
 }
