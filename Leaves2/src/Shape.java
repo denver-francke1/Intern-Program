@@ -8,4 +8,6 @@ abstract class Shape {
     public void draw(Graphics g, int x, int y, int size) {
 
     }
+
+
 }
